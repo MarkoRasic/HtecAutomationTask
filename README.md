@@ -8,6 +8,7 @@ You are looking at README file for project created as solution for HTEC test aut
 My task was to create tests including UI and API solutions.
 
 What will you need to run it is next: 
+- windows
 - java version 1.8
 - lombok plugin (available on plugin store)
 - cucumber plugin (available on plugin store)
